@@ -4,27 +4,317 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88cb6014-2395-4b43-bc38-18b3747cc479" name="Changes" comment="" />
+    <list default="true" id="88cb6014-2395-4b43-bc38-18b3747cc479" name="Changes" comment="agrega HighArray">
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap01/Bank/bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap02/Array/ArrayApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap02/Array/array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap02/ClassData/ClassDataApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap02/ClassData/ClassDataArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap02/ClassData/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap02/ClassData/classDataArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap02/HighArray/highArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap02/LowArray/lowArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap02/OrderedArray/OrdArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap02/OrderedArray/OrderedApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap02/OrderedArray/orderedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap03/BubbleSort/ArrayBub.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap03/BubbleSort/BubbleSortApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap03/BubbleSort/bubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap03/InsertSort/ArrayIns.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap03/InsertSort/InsertSortApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap03/InsertSort/insertSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap03/ObjectSort/ArrayInOb.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap03/ObjectSort/ObjectSortApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap03/ObjectSort/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap03/ObjectSort/objectSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap03/SelectSort/ArraySel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap03/SelectSort/SelectSortApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap03/SelectSort/selectSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap04/Brackets/BracketChecker.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap04/Brackets/BracketsApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap04/Brackets/StackX.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap04/Brackets/brackets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap04/Infix/InToPost.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap04/Infix/InfixApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap04/Infix/StackX.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap04/Infix/infix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap04/Postfix/ParsePost.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap04/Postfix/PostfixApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap04/Postfix/StackX.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap04/Postfix/postfix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap04/PriorityQ/PriorityQ.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap04/PriorityQ/PriorityQApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap04/PriorityQ/priorityQ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap04/Queue/Queue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap04/Queue/QueueApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap04/Queue/queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap04/Reverse/ReverseApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap04/Reverse/Reverser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap04/Reverse/StackX.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap04/Reverse/reverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap04/Stack/StackApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap04/Stack/StackX.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap04/Stack/stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap05/doublyLinked/DoublyLinkedApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap05/doublyLinked/DoublyLinkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap05/doublyLinked/Link.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap05/doublyLinked/doublyLinked.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap05/firstLastList/FirstLastApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap05/firstLastList/FirstLastList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap05/firstLastList/Link.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap05/firstLastList/firstLastList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap05/interIterator/InterIterApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap05/interIterator/Link.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap05/interIterator/LinkList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap05/interIterator/ListIterator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap05/interIterator/interIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap05/linkList/Link.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap05/linkList/LinkList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap05/linkList/LinkListApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap05/linkList/linkList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap05/linkList2/Link.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap05/linkList2/LinkList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap05/linkList2/LinkList2App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap05/linkList2/linkList2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap05/linkQueue/FirstLastList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap05/linkQueue/Link.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap05/linkQueue/LinkQueue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap05/linkQueue/LinkQueueApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap05/linkQueue/linkQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap05/linkStack/Link.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap05/linkStack/LinkList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap05/linkStack/LinkStack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap05/linkStack/LinkStackApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap05/linkStack/linkStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap05/listInsertionSort/Link.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap05/listInsertionSort/ListInsertionSortApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap05/listInsertionSort/SortedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap05/listInsertionSort/listInsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap05/sortedList/Link.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap05/sortedList/SortedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap05/sortedList/SortedListApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap05/sortedList/sortedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap06/anagram/AnagramApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap06/anagram/anagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap06/binarySearch/BinarySearchApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap06/binarySearch/binarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap06/binarySearch/ordArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap06/merge/MergeApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap06/merge/merge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap06/mergeSort/DArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap06/mergeSort/MergeSortApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap06/mergeSort/mergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap06/stackTriangle/Params.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap06/stackTriangle/StackTriangleApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap06/stackTriangle/StackX.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap06/stackTriangle/stackTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap06/stackTriangle2/StackTriangle2App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap06/stackTriangle2/StackX.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap06/stackTriangle2/stackTriangle2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap06/towers/TowersApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap06/towers/towers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap06/triangle/TriangleApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap06/triangle/triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap07/partition/ArrayPar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap07/partition/PartitionApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap07/partition/partition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap07/quickSort1/ArrayIns.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap07/quickSort1/QuickSort1App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap07/quickSort1/quickSort1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap07/quickSort2/ArrayIns.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap07/quickSort2/QuickSort2App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap07/quickSort2/quickSort2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap07/quickSort3/ArrayIns.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap07/quickSort3/QuickSort3App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap07/quickSort3/quickSort3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap07/shellSort/ArraySh.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap07/shellSort/ShellSortApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap07/shellSort/shellSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap08/tree/Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap08/tree/Tree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap08/tree/TreeApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap08/tree/tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap10/tree234/DataItem.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap10/tree234/Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap10/tree234/Tree234.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap10/tree234/Tree234App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap10/tree234/tree234.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap11/hash/DataItem.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap11/hash/HashTable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap11/hash/HashTableApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap11/hash/hash.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap11/hashChain/HashChainApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap11/hashChain/HashTable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap11/hashChain/Link.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap11/hashChain/SortedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap11/hashChain/hashChain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap11/hashDouble/DataItem.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap11/hashDouble/HashDoubleApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap11/hashDouble/HashTable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap11/hashDouble/hashDouble.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap12/heap/Heap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap12/heap/HeapApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap12/heap/Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap12/heap/heap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap12/heapSort/Heap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap12/heapSort/HeapSortApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap12/heapSort/Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap12/heapSort/heapSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap13/bfs/BFSApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap13/bfs/Graph.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap13/bfs/Queue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap13/bfs/Vertex.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap13/bfs/bfs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap13/dfs/DFSApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap13/dfs/Graph.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap13/dfs/StackX.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap13/dfs/Vertex.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap13/dfs/dfs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap13/mst/Graph.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap13/mst/MSTApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap13/mst/StackX.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap13/mst/Vertex.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap13/mst/mst.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap13/topo/Graph.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap13/topo/TopoApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap13/topo/Vertex.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap13/topo/topo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap14/mstw/Edge.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap14/mstw/Graph.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap14/mstw/MSTWApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap14/mstw/PriorityQ.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap14/mstw/Vertex.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap14/mstw/mstw.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap14/path/DistPar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap14/path/Graph.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap14/path/PathApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap14/path/Vertex.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/Chap14/path/path.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReaderFiles/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/app/HighArrayApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/HighArrayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/OrdArrayTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/app/HighArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/app/HighArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/app/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/app/Main.java" afterDir="false" />
+    </list>
+    <list id="32d1179c-3b24-4f19-83ca-0f82714b775d" name="Changes by Jorge" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/app/OrdArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/app/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/app/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="LineStatusTrackerManager">
+    <file path="$PROJECT_DIR$/src/main/java/org/app/Main.java">
+      <ranges>
+        <range start1="2" end1="2" start2="2" end2="5" changelist="32d1179c-3b24-4f19-83ca-0f82714b775d" />
+        <range start1="5" end1="5" start2="8" end2="42" changelist="88cb6014-2395-4b43-bc38-18b3747cc479" />
+      </ranges>
+    </file>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2NICPFDsURNiV37bHpK5kgJbJje" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/nicol/IdeaProjects/LaboratorioArreglos/src/main/java/org/app&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\nicol\IdeaProjects\LaboratorioArreglos\src\main\java\org\app" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.OrdArrayTest">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.app.Main" />
+      <module name="LaboratorioArreglos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HighArrayTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LaboratorioArreglos" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="HighArrayTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrdArrayTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LaboratorioArreglos" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="OrdArrayTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrdArrayTest.copyElementsOfTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LaboratorioArreglos" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="OrdArrayTest" />
+      <option name="METHOD_NAME" value="copyElementsOfTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrdArrayTest.getOcurrencesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LaboratorioArreglos" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="OrdArrayTest" />
+      <option name="METHOD_NAME" value="getOcurrencesTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.OrdArrayTest" />
+        <item itemvalue="JUnit.HighArrayTest" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.OrdArrayTest.copyElementsOfTest" />
+        <item itemvalue="JUnit.OrdArrayTest.getOcurrencesTest" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -34,6 +324,14 @@
       <option name="presentableId" value="Default" />
       <updated>1679342184989</updated>
     </task>
+    <task id="LOCAL-00001" summary="agrega HighArray">
+      <created>1679342430799</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1679342430799</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -46,5 +344,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="agrega HighArray" />
+    <option name="LAST_COMMIT_MESSAGE" value="agrega HighArray" />
   </component>
 </project>
